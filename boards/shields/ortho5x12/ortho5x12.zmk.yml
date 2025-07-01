@@ -1,0 +1,11 @@
+
+file_format: "1"
+id: ortho5x12
+name: ortho5x12
+type: shield
+features:
+  - keys
+  - studio
+outputs:
+  - usb
+  - ble
